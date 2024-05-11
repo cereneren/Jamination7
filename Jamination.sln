@@ -1,6 +1,10 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+<<<<<<< Updated upstream
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamination", "Jamination.csproj", "{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamination", "Jamination.csproj", "{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +13,20 @@ Global
 	ExportRelease|Any CPU = ExportRelease|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
 		{479CAF7B-0CF5-4DC8-BFB3-D6B250BB7208}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+=======
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{D717F7CE-DBEB-4B16-AE1E-F3ADD14AA6F1}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 EndGlobal
