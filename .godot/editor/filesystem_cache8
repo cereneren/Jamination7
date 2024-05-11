@@ -1,10 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-<<<<<<< Updated upstream
-::res://::1715415693
-goo.tscn::PackedScene::7337269514051106641::1715415649::0::1::::<><>::
-icon.svg::CompressedTexture2D::6102306612117733941::1715414882::1715414888::1::::<><>::
-world.tscn::PackedScene::1026087519425134121::1715415638::0::1::::<><>::
-=======
-::res://::1715416041
-icon.svg::CompressedTexture2D::6102306612117733941::1715415990::1715416045::1::::<><>::
->>>>>>> Stashed changes
+::res://::1715416403
+icon.svg::CompressedTexture2D::6102306612117733941::1715415990::1715416095::1::::<><>::
+::res://Assets/::1715416403
+::res://Scenes/::1715416399
+collectible.tscn::PackedScene::4633732963231445930::1715416249::0::1::::<><>::uid://cs7adlxj4hr1v::::res://icon.svg
+goo.tscn::PackedScene::7337269514051106641::1715416097::0::1::::<><>::
+world.tscn::PackedScene::1026087519425134121::1715416097::0::1::::<><>::
+::res://Scripts/::1715416385
+collectible.cs::CSharpScript::-1::1715416385::0::1::::<><>::
