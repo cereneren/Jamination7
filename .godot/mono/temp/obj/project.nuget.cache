@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tYR1ihzQK8z556HADOb4uBUDscdbUYcVjbw7rqLRyRPvmQp97raBx139l02Y0V5QfQAiS/JRKZ+bFOOwYMMw8g==",
+  "dgSpecHash": "MtL58SJFMH61SWG4wZt03erF5E8+nHbMLW1IWCb/BhuuXspX1IVThmzMX1FPB+RNfvHC7NtPUiyr8ckSgVv+sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zorbe\\OneDrive\\Belgeler\\GitHub\\Jamination7\\Jamination.csproj",
+  "projectFilePath": "C:\\Users\\ren\\Desktop\\godot\\Jamination7\\Jamination7\\Jamination.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zorbe\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
-    "C:\\Users\\zorbe\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
-    "C:\\Users\\zorbe\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+    "C:\\Users\\ren\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\ren\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\ren\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
   ],
   "logs": []
 }

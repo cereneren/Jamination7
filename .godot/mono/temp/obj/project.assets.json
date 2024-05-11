@@ -88,19 +88,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zorbe\\.nuget\\packages\\": {}
+    "C:\\Users\\ren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zorbe\\OneDrive\\Belgeler\\GitHub\\Jamination7\\Jamination.csproj",
+      "projectUniqueName": "C:\\Users\\ren\\Desktop\\godot\\Jamination7\\Jamination7\\Jamination.csproj",
       "projectName": "Jamination",
-      "projectPath": "C:\\Users\\zorbe\\OneDrive\\Belgeler\\GitHub\\Jamination7\\Jamination.csproj",
-      "packagesPath": "C:\\Users\\zorbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zorbe\\OneDrive\\Belgeler\\GitHub\\Jamination7\\.godot\\mono\\temp\\obj\\",
+      "projectPath": "C:\\Users\\ren\\Desktop\\godot\\Jamination7\\Jamination7\\Jamination.csproj",
+      "packagesPath": "C:\\Users\\ren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ren\\Desktop\\godot\\Jamination7\\Jamination7\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zorbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ren\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

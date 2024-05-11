@@ -17,3 +17,4 @@ private void _on_body_entered(Node2D body)
 {
 	// Replace with function body.
 }
+

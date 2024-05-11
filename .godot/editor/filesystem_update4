@@ -1,6 +1,7 @@
-res://Scenes/world.tscn
 res://Scenes/goo.tscn
-res://Scenes/collectible.tscn
-res://Global.cs
+res://Scenes/world.tscn
+res://Scripts/collectible.tscn
 res://Scripts/collectible.cs
 res://Scripts/goo.cs
+res://Global.cs
+res://Scenes/Sprite2D.cs
