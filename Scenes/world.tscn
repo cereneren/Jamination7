@@ -1,3 +1,7 @@
-[gd_scene format=3 uid="uid://d1we3w5u5qrdc"]
+[gd_scene load_steps=2 format=3 uid="uid://d1we3w5u5qrdc"]
+
+[ext_resource type="PackedScene" uid="uid://dtm8neofstb6u" path="res://Scenes/goo.tscn" id="1_epim3"]
 
 [node name="World" type="Node2D"]
+
+[node name="goo" parent="." instance=ExtResource("1_epim3")]
