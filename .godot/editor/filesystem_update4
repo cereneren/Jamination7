@@ -1,3 +1,6 @@
-res://Scenes/goo.tscn
 res://Scenes/world.tscn
-res://Scripts/collectible.tscn
+res://Scenes/goo.tscn
+res://Scenes/collectible.tscn
+res://Global.cs
+res://Scripts/collectible.cs
+res://Scripts/goo.cs
