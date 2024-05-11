@@ -1,14 +1,16 @@
-[gd_scene load_steps=3 format=3 uid="uid://b7au51cqs27yc"]
+[gd_scene load_steps=4 format=3 uid="uid://b7au51cqs27yc"]
 
-[ext_resource type="Texture2D" uid="uid://cs7adlxj4hr1v" path="res://icon.svg" id="1_w7xlu"]
+[ext_resource type="Script" path="res://Scripts/collectible.cs" id="1_81n3v"]
+[ext_resource type="Texture2D" uid="uid://cs7adlxj4hr1v" path="res://icon.svg" id="2_yifhs"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_it0nu"]
 size = Vector2(138, 138)
 
 [node name="Area2D" type="Area2D"]
+script = ExtResource("1_81n3v")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("1_w7xlu")
+texture = ExtResource("2_yifhs")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_it0nu")
